@@ -1,5 +1,6 @@
 # Python connect_four game program
 
+
 ## Contents
 * About Project
 * Motivation
